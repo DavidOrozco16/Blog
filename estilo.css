@@ -1,0 +1,13 @@
+body{margin: 0; background-color:#F5E395 ;}
+html{font-family: Georgia, 'Times New Roman', Times, serif;}
+header{background-color:#F0F595 ; padding: 3rem 2rem;}
+header h2{font-size: 4rem; text-align: center;}
+.contenido{width: 400px; margin: 0 auto;}
+section article{transition: box-shadow 0.3s ease; background-color: #FCF6AC; margin: 1rem 0; border-radius: 0.5rem; padding: 0.25rem 0; cursor: pointer;}
+section article h3, section article p{margin: 1rem;}
+section article:hover{box-shadow: 0 0.1rem 0.4rem rgba(0, 0, 0, 0.3);}
+footer{background-color:#FCF6AC; padding: 3rem; color: #F0F595;}
+footer section{float: right;}
+footer p{color: black; margin: 0;}
+footer a{color: black; text-decoration: none; cursor: pointer;}
+footer a:hover{color:grey}
